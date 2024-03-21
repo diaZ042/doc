@@ -7,7 +7,7 @@ eleventyComputed:
 The following properties can be configured when creating or editing the RDP entry. Most of the general properties require you to close the RDP entry completely, then reopen it to take effect.
 {% endsnippet %}  
 
-![RDP entry experience properties](https://webdevolutions.blob.core.windows.net/docs/en/kb/KB6218.png)
+![RDP entry experience properties](https://webdevolutions.blob.core.windows.net/docs/docs_en_kb_KB6218.png)
 
 | SETTINGS                                 | DESCRIPTION                                                                                                           |
 |------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|

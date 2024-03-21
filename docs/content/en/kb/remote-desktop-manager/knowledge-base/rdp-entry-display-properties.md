@@ -9,7 +9,7 @@ Customize the default size and colors of the remote desktop window in RDP sessio
 Most of the display properties require you to close the RDP entry completely, then reopen it to take effect.
 {% endsnippet %}
 
-![Display properties](https://webdevolutions.azureedge.net/docs/en/kb/KB2373.png)
+![Display properties](https://webdevolutions.azureedge.net/docs/docs_en_kb_KB2373.png)
 
 ## Remote desktop size
 
